@@ -9,4 +9,5 @@ Repository files:
 
 
 The purpose of the project was to perform an exploratory Data Analysis and answer below-mentioned research questions that may help discover and interpret meaningful data patterns and eventually understand how readers and authors behave on a books dataset.
+
 A.Y. 2023-2024
